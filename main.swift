@@ -4,7 +4,8 @@
 print(false)
 print(43 == 53)
 */
-
+//false
+print(43 != 53)
 // 9 == 9
 
 // 9 != 9
